@@ -1,0 +1,9 @@
+div {
+  width: 100%;
+  max-width: 960px;
+  background-color: rgb(228,225,216);
+  min-height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2rem;
+}
