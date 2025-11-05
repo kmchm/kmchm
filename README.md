@@ -1,6 +1,6 @@
 Hey! If you're a first year student:
 - you're probably looking for this: [DIT114 Git Workshop](https://kmchm.github.io/intro-to-git/)
-- you can find me on discord `@kattenarihatten` or chalmers gitlab: `kamilc`
+- you can find me on discord `@kattihatt` or chalmers gitlab: `kamilc`
 - [I have a blog with poorly written tutorials!](https://kmchm.github.io)
 
 <!---
