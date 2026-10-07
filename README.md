@@ -1,4 +1,4 @@
-Hey! If you're a first year student:
+Hey! If you're a student:
 - you're probably looking for this: [DIT114 Git Workshop](https://kmchm.github.io/intro-to-git/)
 - or this: [DIT044 Labs](https://github.com/kmchm/DIT044-Labs)
 
